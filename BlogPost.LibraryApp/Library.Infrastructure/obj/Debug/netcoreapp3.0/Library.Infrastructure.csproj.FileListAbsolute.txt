@@ -1,0 +1,13 @@
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\bin\Debug\netcoreapp3.0\Library.Infrastructure.deps.json
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\bin\Debug\netcoreapp3.0\Library.Infrastructure.dll
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\obj\Debug\netcoreapp3.0\Library.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\obj\Debug\netcoreapp3.0\Library.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\obj\Debug\netcoreapp3.0\Library.Infrastructure.AssemblyInfo.cs
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\bin\Debug\netcoreapp3.0\Library.Infrastructure.runtimeconfig.json
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\bin\Debug\netcoreapp3.0\Library.Infrastructure.runtimeconfig.dev.json
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\bin\Debug\netcoreapp3.0\Library.Infrastructure.pdb
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\obj\Debug\netcoreapp3.0\Library.Infrastructure.dll
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\obj\Debug\netcoreapp3.0\Library.Infrastructure.pdb
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\bin\Debug\netcoreapp3.0\Library.Core.dll
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\bin\Debug\netcoreapp3.0\Library.Core.pdb
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\obj\Debug\netcoreapp3.0\Library.Infrastructure.csproj.CopyComplete

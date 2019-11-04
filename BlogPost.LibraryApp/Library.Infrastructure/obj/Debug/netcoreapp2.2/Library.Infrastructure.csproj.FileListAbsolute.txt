@@ -1,0 +1,13 @@
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\bin\Debug\netcoreapp2.2\Library.Infrastructure.deps.json
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\bin\Debug\netcoreapp2.2\Library.Infrastructure.runtimeconfig.json
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\bin\Debug\netcoreapp2.2\Library.Infrastructure.runtimeconfig.dev.json
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\bin\Debug\netcoreapp2.2\Library.Infrastructure.dll
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\bin\Debug\netcoreapp2.2\Library.Infrastructure.pdb
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\bin\Debug\netcoreapp2.2\Library.Core.dll
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\bin\Debug\netcoreapp2.2\Library.Core.pdb
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\obj\Debug\netcoreapp2.2\Library.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\obj\Debug\netcoreapp2.2\Library.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\obj\Debug\netcoreapp2.2\Library.Infrastructure.AssemblyInfo.cs
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\obj\Debug\netcoreapp2.2\Library.Infrastructure.csproj.CopyComplete
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\obj\Debug\netcoreapp2.2\Library.Infrastructure.dll
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Infrastructure\obj\Debug\netcoreapp2.2\Library.Infrastructure.pdb

@@ -1,0 +1,84 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Library.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/Library.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Library.Core/1.0.0": {
+      "type": "project",
+      "path": "../Library.Core/Library.Core.csproj",
+      "msbuildProject": "../Library.Core/Library.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": [
+      "Library.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ahsan\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ahsan\\source\\repos\\webapi-efcore\\BlogPost.LibraryApp\\Library.Infrastructure\\Library.Infrastructure.csproj",
+      "projectName": "Library.Infrastructure",
+      "projectPath": "C:\\Users\\ahsan\\source\\repos\\webapi-efcore\\BlogPost.LibraryApp\\Library.Infrastructure\\Library.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\ahsan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ahsan\\source\\repos\\webapi-efcore\\BlogPost.LibraryApp\\Library.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ahsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {
+            "C:\\Users\\ahsan\\source\\repos\\webapi-efcore\\BlogPost.LibraryApp\\Library.Core\\Library.Core.csproj": {
+              "projectPath": "C:\\Users\\ahsan\\source\\repos\\webapi-efcore\\BlogPost.LibraryApp\\Library.Core\\Library.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

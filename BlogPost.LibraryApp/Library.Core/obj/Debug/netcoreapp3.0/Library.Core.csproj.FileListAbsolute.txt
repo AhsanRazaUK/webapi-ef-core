@@ -1,0 +1,8 @@
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Core\bin\Debug\netcoreapp3.0\Library.Core.deps.json
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Core\bin\Debug\netcoreapp3.0\Library.Core.dll
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Core\bin\Debug\netcoreapp3.0\Library.Core.pdb
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Core\obj\Debug\netcoreapp3.0\Library.Core.csprojAssemblyReference.cache
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Core\obj\Debug\netcoreapp3.0\Library.Core.AssemblyInfoInputs.cache
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Core\obj\Debug\netcoreapp3.0\Library.Core.AssemblyInfo.cs
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Core\obj\Debug\netcoreapp3.0\Library.Core.dll
+C:\Users\ahsan\source\repos\webapi-ef-core\BlogPost.LibraryApp\Library.Core\obj\Debug\netcoreapp3.0\Library.Core.pdb
